@@ -1,4 +1,4 @@
-# 🚀 PDFNova — Premium Private PDF & Document Suite
+# 🚀 PDFNova — Premium Private PDF & Document Site
 
 **PDFNova** is a high-performance, 100% client-side web application designed for secure document and image processing. Built for students, professionals, and privacy enthusiasts.
 
